@@ -70,7 +70,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animate-delay-200">
-                Hi, I'm Almira -- a fullstack developer who turns ideas into
+                Hi, I'm Almira DUF -- a fullstack developer who turns ideas into
                 real web products. I build responsive and scalable applications
                 using modern technologies like React and Node.js. Currently, I'm
                 focused on growing my skills and building impactful projects.
