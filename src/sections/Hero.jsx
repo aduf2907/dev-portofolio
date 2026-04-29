@@ -82,7 +82,13 @@ const Hero = () => {
               <Button size="lg">
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <AnimatedBorderButton />
+              <AnimatedBorderButton
+                href="/CV - Almira Darma Utami Fadillah.pdf"
+                target="_blank"
+              >
+                <Download className="w-5 h-5" />
+                Download CV
+              </AnimatedBorderButton>
             </div>
 
             {/* Social Links */}
