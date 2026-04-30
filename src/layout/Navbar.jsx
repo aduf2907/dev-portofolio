@@ -79,10 +79,11 @@ const Navbar = () => {
                 {link.label}
               </a>
             ))}
-
-            <Button onClick={() => setIsMobileMenuOpen(false)}>
-              Contact Me
-            </Button>
+            <a href="#contact">
+              <Button onClick={() => setIsMobileMenuOpen(false)}>
+                Contact Me
+              </Button>
+            </a>
           </div>
         </div>
       )}
