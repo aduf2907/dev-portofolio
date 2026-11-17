@@ -1,5 +1,14 @@
 const experiences = [
   {
+    period: "Aug - Nov 2026",
+    role: "Technical Consultant",
+    company: "PT Artha Infotama",
+    description:
+      "Contributed to ERP system development and customization using Microsoft Dynamics GP and Dexterity, including window development, debugging, SQL database operations, and system maintenance to support business processes.",
+    technologies: ["Microsoft Dynamics GP, Dexterity, SQL Server"],
+    current: false,
+  },
+  {
     period: "Oct 2025 - Apr 2026",
     role: "Developer",
     company: "PT. Telkom Indonesia",
